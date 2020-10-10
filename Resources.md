@@ -50,7 +50,7 @@ Nearly the same thing as the REST API, but this time it's deploying a web page. 
 
 ### Dependency Injection Pattern
 
-Dependency injection is a design pattern that lets you change different parts of your program without needing to change other parts of your program. Basically, it makes your system more modular, and allows project-specific configuration. You can later go and change the implementation of your system in a single place and it will change throughout your entire project using a service provider and service collections.
+Dependency injection is a design pattern that lets you change different parts of your program without needing to change other parts of your program. Basically, it makes your system more modular, and provides an accessible way to have project-specific configuration. You can later go and change the implementation of your system in a single place and it will change throughout your entire project using a service provider and service collections.
 
 - [Dependency Injection in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1)
 - [Dependency Injection in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/dependency-injection)
