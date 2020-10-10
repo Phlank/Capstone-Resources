@@ -2,11 +2,17 @@
 
 ## C# resources
 
+### Visual Studio Community
+
+https://visualstudio.microsoft.com/vs/community/
+
+Visual Studio is great for working with C#, and it has been used by .NET and .NET Core users for as long as it's been around. Because of this, there are many features that will make programming in Visual Studio feel really simple. I'd recommend it above VS Code.
+
 ### C# Programming Guide
 
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
 
-This section of documentation has style conventions, information on asynchronous programming in C#, use of attributes, LINQ (Language-integrated query, basically writing a database query in C#), lambda expressions which will be very useful in many moments of filtering data from IEnumerable objects, detailed information about scopes, types, generics, namespaces, and interfaces in C#. Use the sidebar and start reading and you'll have a lot of things in your brain in an hour or two.
+This section of documentation has style conventions, information on asynchronous programming in C#, use of attributes, LINQ (Language-integrated query, basically writing a database query in C#), lambda expressions (extremely useful), detailed information about scopes, types, generics, namespaces, and interfaces in C#. Use the sidebar and start reading and you'll have a lot of things in your brain in an hour or two.
 
 ### MVC Pattern - Model, View, Controllers
 
