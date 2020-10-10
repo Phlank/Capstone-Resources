@@ -74,7 +74,7 @@ It's pgAdmin for SQL Server. Admittedly it has a much larger range of functional
 
 https://docs.microsoft.com/en-us/ef/core/
 
-Read and browse the MVC link above before getting here. Have you ever been worried about messing something up when defining all of your tables in a database? Worried you're going to blow things to bits by muddling up all of your foreign keys? That's a thing of the past. Entity Framework gives you a way to make structural changes to the database through code changes. It also gives you an easy way to access your database tables through code. This is the best way to work with databases in C# and anyone who says otherwise is a dingaling. It supports both PostgreSQL and SQL Server databases.
+Read and browse the MVC link above before getting here. Have you ever been worried about messing something up when defining all of your tables in a database? Worried you're going to blow things to bits by muddling up all of your foreign keys? That's a thing of the past. Entity Framework gives you a way to make structural changes to the database through code changes. It also gives you an easy way to access your database tables through code. This is the best way to work with databases in C# and anyone who says otherwise is a *ding*-**a**-*ling*. It supports both PostgreSQL and SQL Server databases.
 
 ## Other Stuff
 
