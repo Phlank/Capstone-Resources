@@ -34,7 +34,7 @@ Nearly the same thing as the REST API, but this time it's deploying a web page. 
 
 ## Databases
 
-Before I give any more resources about database types, I want to give a broad warning: MySQL isn't very good. It has a lot of blind spots. Don't choose it because it shows up on Google.
+Before I give any more resources about database types, I want to give a broad warning: MySQL isn't very good. It can't do as much as some other DBMS can. Don't choose it because it shows up on Google. I promise it's worth it to use something else, and large-scale applications often depend on functionality that is more difficult to implement in MySQL.
 
 I would recommend choosing between SQL Server and PostgreSQL. If you are building a mobile application, look into SQLite. It's a very lightweight implementation for a SQL database, and it's the item of choice for every mobile app.
 
