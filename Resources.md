@@ -5,6 +5,7 @@
   - [Building a REST API in C# with ASP.NET Core](#building-a-rest-api-in-c-with-aspnet-core)
   - [Creating a Web App with ASP.NET Core MVC](#creating-a-web-app-with-aspnet-core-mvc)
   - [Dependency Injection Pattern](#dependency-injection-pattern)
+  - [Identity and Authorization](#identity-and-authorization)
 - [Databases](#databases)
   - [Database Basics](#database-basics)
   - [PostgreSQL](#postgresql)
@@ -54,6 +55,13 @@ Dependency injection is a design pattern that lets you change different parts of
 
 - [Dependency Injection in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1)
 - [Dependency Injection in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/dependency-injection)
+  
+### Identity and Authorization
+
+There's a good chance your client will require different people who are using the application you build to log in and out. Don't remake the wheel - this idea is so old, it was being used before you were born. I still remember when I logged into Neopets as a child and they were flaunting case sensitivity as a feature of their passwords. There's something in place to help you do it already. There's a couple different options that are both good that I'd point you towards.
+
+- [Identity in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-3.1&tabs=visual-studio)
+- [IdentityServer4](https://identityserver4.readthedocs.io/en/latest/#) is an open-source identity framework that is very mature and has been used by many people. It has a lot of great documentation.
 
 ## Databases
 
