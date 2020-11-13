@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythagoreanTheoremWebDemo", "PythagoreanTheoremWebDemo\PythagoreanTheoremWebDemo.csproj", "{FEE91ABF-EDA0-4596-A5E5-2E3D3D058982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythagoreanTheoremBackend", "PythagoreanTheoremBackend\PythagoreanTheoremBackend.csproj", "{8BFC9669-03CC-4CC0-BDD7-155934DF47B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE91ABF-EDA0-4596-A5E5-2E3D3D058982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE91ABF-EDA0-4596-A5E5-2E3D3D058982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE91ABF-EDA0-4596-A5E5-2E3D3D058982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE91ABF-EDA0-4596-A5E5-2E3D3D058982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFC9669-03CC-4CC0-BDD7-155934DF47B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFC9669-03CC-4CC0-BDD7-155934DF47B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFC9669-03CC-4CC0-BDD7-155934DF47B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFC9669-03CC-4CC0-BDD7-155934DF47B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DBA69A-CE92-4786-93F1-0F5A345282E8}
+	EndGlobalSection
+EndGlobal

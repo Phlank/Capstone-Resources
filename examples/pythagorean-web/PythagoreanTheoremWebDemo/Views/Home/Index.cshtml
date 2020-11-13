@@ -1,0 +1,25 @@
+﻿@model PythagoreanViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <p>Pythagorean Theorem: @Model.Formula</p>
+    <form asp-controller="Home" asp-action="Calculate" method="post">
+        <table>
+            <tr>
+                <td>Side 1:</td>
+                <td><input type="text" name="sideOne" /></td>
+            </tr>
+            <tr>
+                <td>Side 2:</td>
+                <td><input type="text" name="sideTwo" /></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="submitForm" /></td>
+            </tr>
+        </table>
+    </form>
+</div>
